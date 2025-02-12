@@ -6,7 +6,7 @@
 * @copyright
 * Copyright 2024 Michelle Talley University of Central Arkansas
 *
-* @author: <student name>
+* @author: <Riley Harris>
 * @course: Data Structures (CSCI 2320)
 *
 * @file MessageBox.h
