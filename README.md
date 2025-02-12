@@ -2,7 +2,7 @@
 Sample C++ Data Structures code.
 Riley Harris
 Base example used for GitHub lab. 
-
+I am having fun:)
 Contents:
 - **MessageBox.h** - Contains the implementation of the MessageBox data structure
 - **main.cpp**     - Main program producing required output for assignment
